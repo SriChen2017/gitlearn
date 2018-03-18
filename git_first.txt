@@ -1,0 +1,2 @@
+My first class of learning the Git.
+Git is a distributed version control system.
